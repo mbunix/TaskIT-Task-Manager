@@ -1,0 +1,76 @@
+body{
+font-family: Noto Sans;
+}
+
+/* 
+.mainboard-container {
+    display: flex;
+    height: 100vh;
+    overflow: scroll-initial;
+    width: 1440px;
+    height: 1100px;
+    overflow: hidden;
+    background: #FAFAFA;
+}
+.mainboard-searchbar{
+    display: flex;
+    width: 112.5px;
+    height: 20.213px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: #777;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.mainboard-searchbar-input{
+    width: 112.5px;
+    height: 20.213px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: #777;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.mainboard-items-container{
+    display: flex;
+    flex-direction: column;
+    width: 1440px;
+}
+.mainboard-content{
+    width: 1440px;
+    height: 1100px;
+    overflow: hidden;
+    background: #FAFAFA;
+}
+.mainboard-list{
+    width: 1440px;
+    height: 1100px;
+    overflow: hidden;
+    background: #FAFAFA;
+}
+.mainboard-list-item{
+    width: 1440px;
+    height: 1100px;
+    overflow: hidden;
+    background: #FAFAFA;
+}
+.mainboard-list-item a{
+    width: 1440px;
+    height: 1100px;
+    overflow: hidden;
+    background: #090808;
+    font-size: 14px;
+    font-weight: 200;
+}
+.mainboard-content-item{
+    display: flex;
+    flex-direction: column;
+    width: 1440px;
+    height: 1100px;
+    overflow: hidden;
+    background: #FAFAFA;
+} */ 

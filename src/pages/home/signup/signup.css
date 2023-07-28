@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@200;400;500;600;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Sans';
+   
+}
+
+.signup-form{
+   margin: 0;
+    
+    height: -moz-max-content;
+    height: max-content;
+    display: flex;
+    float: left;
+    align-items: flex-start;
+    flex-direction: column;
+    border: 2px solid #f6f1f1;
+    padding: 10px;
+    position: absolute;
+    top: 25%;
+    background: rgba(0, 0, 0, 0.864);
+    right: 8%;
+    padding: 16px;
+    width: max-content;
+}
+
+.userName,.email,.password,.confirmPassword{
+    display: flex;
+    gap: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #fff;
+}

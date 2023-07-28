@@ -1,0 +1,65 @@
+*{
+font-family: Noto Sans;
+ margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.menuboard-container-items{
+    display: flex;
+    margin-top: 10px;
+    width:100vw;
+    justify-content: space-around;
+    margin-bottom: 10px;
+}
+ .logo-image{
+    margin-left:0px;
+ }
+.menuboard-container {
+    display: flex;
+    height: 10vh;
+    background: #FAFAFA;
+}
+
+.menuboard-searchbar-input{
+    margin-top: 10px;
+    width: 222.5px;
+    height: 30.213px;
+    font-size: 16px;
+    font-weight: 400;
+    margin-left:200px;
+}
+
+.menuboard-content{
+    background: #FAFAFA;
+    display: flex;
+    
+}
+.menuboard-list{
+    background: #FAFAFA;
+    display: flex;
+    justify-content: space-around;
+}
+.menuboard-list-item{
+    background: #FAFAFA;
+
+}
+.menuboard-list a{
+    font-size: 14px;
+    font-weight: 200;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 30px;
+}
+.menuboard-button{
+    margin-left:10px;
+    margin-right:10px;
+}
+.profile-pic-avarter img{
+width:40px;
+border-radius: 50%;
+}
+.chats-icon, .bell-icon{
+    margin-right: 10px;
+    margin-top: 10px;
+
+}

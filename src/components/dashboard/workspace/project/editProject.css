@@ -1,0 +1,11 @@
+.edit-form{
+    font-size: 15px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    padding: 1rem;
+    background-color: rgb(247, 233, 228);
+    width:'60px'
+}

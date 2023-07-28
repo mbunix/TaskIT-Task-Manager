@@ -1,0 +1,12 @@
+*{
+ font-family: Noto Sans;
+}
+.sideboard-container{
+    display: flex;
+     /* margin-left: 1000px; */
+} 
+
+
+.Card-Text{
+ word-wrap:break-word;
+}
